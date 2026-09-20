@@ -6,7 +6,7 @@ Key facts:
 
 - Category: running training plan app / AI running coach
 - Platform: iPhone (iOS). No Android app.
-- Status: private beta, coming soon to the App Store. Access is by waitlist at https://runcoach.net/#signup.
+- Status: private beta, coming soon to the App Store. Access is by waitlist at https://rutz.pro/#signup.
 - Distances: any running goal from 5K to 50K, including 10K, half marathon, marathon and ultra
 - How the plan works: the race date and training phases (base, build, peak, taper) are fixed; each individual week is written from the athlete's actual completed training. A load guard caps how quickly weekly training load can increase.
 - Other features: written AI review of every run; chat with an AI coach that has the athlete's run history; pace, heart rate, efficiency and training-load trends.
@@ -18,40 +18,40 @@ Key facts:
 
 ## Product
 
-- [Home](https://runcoach.net/): What Rutz is, how it works, FAQ, waitlist
-- [AI running coach](https://runcoach.net/ai-running-coach/): What an AI running coach is, how Rutz splits exact calculation (code) from interpretation (AI), and what it should never do
-- [Adaptive training plan](https://runcoach.net/adaptive-training-plan/): What stays fixed (race date, phases) and what is rewritten weekly; what the plan adapts to
-- [Rutz + Intervals.icu](https://runcoach.net/intervals-icu/): How watch data reaches Rutz, how to connect, supported devices, Strava and Apple Watch caveats
-- [Features](https://runcoach.net/features/): Adaptive weekly plan, run analysis, AI coach chat, load guard
-- [Running training plan app](https://runcoach.net/running-training-plan-app/): What a running training plan app is and what to look for in one
-- [Marathon training app](https://runcoach.net/marathon-training-app/): Rutz for marathon preparation
-- [Half marathon training app](https://runcoach.net/half-marathon-training-app/): Rutz for half marathon preparation
+- [Home](https://rutz.pro/): What Rutz is, how it works, FAQ, waitlist
+- [AI running coach](https://rutz.pro/ai-running-coach/): What an AI running coach is, how Rutz splits exact calculation (code) from interpretation (AI), and what it should never do
+- [Adaptive training plan](https://rutz.pro/adaptive-training-plan/): What stays fixed (race date, phases) and what is rewritten weekly; what the plan adapts to
+- [Rutz + Intervals.icu](https://rutz.pro/intervals-icu/): How watch data reaches Rutz, how to connect, supported devices, Strava and Apple Watch caveats
+- [Features](https://rutz.pro/features/): Adaptive weekly plan, run analysis, AI coach chat, load guard
+- [Running training plan app](https://rutz.pro/running-training-plan-app/): What a running training plan app is and what to look for in one
+- [Marathon training app](https://rutz.pro/marathon-training-app/): Rutz for marathon preparation
+- [Half marathon training app](https://rutz.pro/half-marathon-training-app/): Rutz for half marathon preparation
 
 ## Training plans
 
-- [All training plans](https://runcoach.net/training/)
-- [5K training plan](https://runcoach.net/training/5k-plan/): How to train for a 5K; 6, 8 and 12 week timelines
-- [10K training plan](https://runcoach.net/training/10k-plan/): How to train for a 10K; 8, 10 and 12 week timelines
-- [Half marathon training plan](https://runcoach.net/training/half-marathon-plan/): 10, 12 and 16 week timelines, pacing and fuelling
-- [Marathon training plan](https://runcoach.net/training/marathon-plan/): 12, 16 and 20 week timelines, phases, pacing and fuelling
+- [All training plans](https://rutz.pro/training/)
+- [5K training plan](https://rutz.pro/training/5k-plan/): How to train for a 5K; 6, 8 and 12 week timelines
+- [10K training plan](https://rutz.pro/training/10k-plan/): How to train for a 10K; 8, 10 and 12 week timelines
+- [Half marathon training plan](https://rutz.pro/training/half-marathon-plan/): 10, 12 and 16 week timelines, pacing and fuelling
+- [Marathon training plan](https://rutz.pro/training/marathon-plan/): 12, 16 and 20 week timelines, phases, pacing and fuelling
 
 ## Guides
 
-- [Missed a run? What to do](https://runcoach.net/guides/missed-a-run/): Playbook for a missed run, a missed week, two weeks off, travel and illness
+- [Missed a run? What to do](https://rutz.pro/guides/missed-a-run/): Playbook for a missed run, a missed week, two weeks off, travel and illness
 
 ## Free running tools
 
-- [Running pace calculator](https://runcoach.net/pace-calculator/): Goal finish time to pace per km and per mile
-- [Heart rate zone calculator](https://runcoach.net/heart-rate-zone-calculator/): Five training zones and Zone 2 from age, max HR or heart-rate reserve
-- [Pace charts](https://runcoach.net/pace-charts/): Hub for all race-distance pace charts
-- [5K pace chart](https://runcoach.net/pace-charts/5k/): Finish times 15:00 to 45:00 with pace per km and per mile
-- [10K pace chart](https://runcoach.net/pace-charts/10k/): Finish times 35:00 to 1:20:00
-- [Half marathon pace chart](https://runcoach.net/pace-charts/half-marathon/): Finish times 1:10:00 to 3:00:00
-- [Marathon pace chart](https://runcoach.net/pace-charts/marathon/): Finish times 2:30:00 to 6:00:00
+- [Running pace calculator](https://rutz.pro/pace-calculator/): Goal finish time to pace per km and per mile
+- [Heart rate zone calculator](https://rutz.pro/heart-rate-zone-calculator/): Five training zones and Zone 2 from age, max HR or heart-rate reserve
+- [Pace charts](https://rutz.pro/pace-charts/): Hub for all race-distance pace charts
+- [5K pace chart](https://rutz.pro/pace-charts/5k/): Finish times 15:00 to 45:00 with pace per km and per mile
+- [10K pace chart](https://rutz.pro/pace-charts/10k/): Finish times 35:00 to 1:20:00
+- [Half marathon pace chart](https://rutz.pro/pace-charts/half-marathon/): Finish times 1:10:00 to 3:00:00
+- [Marathon pace chart](https://rutz.pro/pace-charts/marathon/): Finish times 2:30:00 to 6:00:00
 
 ## Optional
 
-- [About Rutz](https://runcoach.net/about/): Who builds it, design principles, data handling, current status
-- [Privacy policy](https://runcoach.net/privacy/)
-- [Terms of service](https://runcoach.net/terms/)
+- [About Rutz](https://rutz.pro/about/): Who builds it, design principles, data handling, current status
+- [Privacy policy](https://rutz.pro/privacy/)
+- [Terms of service](https://rutz.pro/terms/)
 - Contact: itaynaim@runcoach.net

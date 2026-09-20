@@ -16,4 +16,4 @@ User-Agent: CCBot
 Allow: /
 Disallow: /dashboard/
 
-Sitemap: https://runcoach.net/sitemap.xml
+Sitemap: https://rutz.pro/sitemap.xml
