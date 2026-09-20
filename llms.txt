@@ -6,14 +6,14 @@ Key facts:
 
 - Category: running training plan app / AI running coach
 - Platform: iPhone (iOS). No Android app.
-- Status: private beta. Access is by waitlist at https://runcoach.net/#signup. Not yet publicly listed on the App Store.
-- Distances: 5K, 10K, half marathon, marathon
+- Status: private beta, coming soon to the App Store. Access is by waitlist at https://runcoach.net/#signup.
+- Distances: any running goal from 5K to 50K, including 10K, half marathon, marathon and ultra
 - How the plan works: the race date and training phases (base, build, peak, taper) are fixed; each individual week is written from the athlete's actual completed training. A load guard caps how quickly weekly training load can increase.
 - Other features: written AI review of every run; chat with an AI coach that has the athlete's run history; pace, heart rate, efficiency and training-load trends.
-- Data source and sign-in: Intervals.icu (OAuth). Any device that syncs to Intervals.icu works, including Garmin, COROS, Suunto, Polar, Wahoo and Zwift.
-- Price: not announced. The waitlist is free; referrals earn free premium time.
-- Not offered today: Android app, guided strength / mobility / Pilates sessions, human coaches.
-- Languages: English and Hebrew.
+- Data source and sign-in: Intervals.icu (OAuth). Any device that syncs to Intervals.icu works, including Garmin, COROS, Suunto, Polar and Wahoo. Direct Apple Watch support is in progress. Strava-sourced activities cannot reach Rutz (Intervals.icu may not relay them to third parties).
+- Price: not announced. Free and premium tiers are planned, and how much AI analysis an athlete gets depends on the tier. The waitlist is free; inviting 2 friends who join earns 1 free premium month.
+- Not offered today: Android app, guided strength / mobility / Pilates sessions, human coaches, multisport (running only).
+- Languages: the coach replies in whatever language the athlete writes in.
 - Design principle: code does the math, AI interprets the results.
 
 ## Product
@@ -26,7 +26,6 @@ Key facts:
 - [Running training plan app](https://runcoach.net/running-training-plan-app/): What a running training plan app is and what to look for in one
 - [Marathon training app](https://runcoach.net/marathon-training-app/): Rutz for marathon preparation
 - [Half marathon training app](https://runcoach.net/half-marathon-training-app/): Rutz for half marathon preparation
-- [Rutz vs Runna](https://runcoach.net/runna-alternative/): Honest feature-by-feature comparison, including where Runna is the better choice
 
 ## Training plans
 
